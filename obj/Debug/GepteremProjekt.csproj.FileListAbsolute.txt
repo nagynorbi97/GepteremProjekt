@@ -1,0 +1,9 @@
+C:\Users\Norbi\source\repos\GepteremProjekt\bin\Debug\GepteremProjekt.exe.config
+C:\Users\Norbi\source\repos\GepteremProjekt\bin\Debug\GepteremProjekt.exe
+C:\Users\Norbi\source\repos\GepteremProjekt\bin\Debug\GepteremProjekt.pdb
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.csprojAssemblyReference.cache
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.Properties.Resources.resources
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.csproj.GenerateResource.cache
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.exe
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.pdb
+C:\Users\Norbi\source\repos\GepteremProjekt\obj\Debug\GepteremProjekt.Form1.resources
